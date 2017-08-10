@@ -13,7 +13,6 @@
  */
 package com.facebook.presto.sql.parser;
 
-import com.facebook.presto.sql.MyTreePrinter;
 import com.facebook.presto.sql.TreePrinter;
 import com.facebook.presto.sql.tree.*;
 import org.antlr.v4.runtime.ANTLRInputStream;
